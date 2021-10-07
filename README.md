@@ -3,12 +3,16 @@
 
 # 👋 I'm Frikallo
 
-### I'm a Python and Javascript developer! I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+### <div align="center">I'm Noah, a High school student who's absolutely gaming at code</div>  
+  
 
-- I'm currently working on [EpicBot](https://epic-bot.com) and [Mailhook](https://mail-hook.site).
-- I have been programming for 2 years!
-- I still don't know what I am doing.
-- Help.
+- 🔭 I’m currently working on **#%$*##
+  
+
+- 🐳 I’m currently learning Docker 
+  
+
+- ❓ Ask me about anything related to neural networks or machine learning related technologies
 
 ### Technologies that I know!
 
