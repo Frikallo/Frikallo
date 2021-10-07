@@ -1,5 +1,5 @@
 # Hello!
-<div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593696934154240/cool_background_thing_lol.gif"></div>
+<div align="center"><img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif"></div>
 
 # 👋 I'm Frikallo
 
