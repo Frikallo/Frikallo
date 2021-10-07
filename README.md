@@ -1,5 +1,5 @@
 # Hello!
-<div align="center"><img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" width="1000"></div>
+<div align="center"><img src="https://i.pinimg.com/originals/f3/b8/63/f3b8633ef36bf0b5085c5d0f6020c919.gif" width="1000"></div>
 
 # 👋 I'm Frikallo
 
