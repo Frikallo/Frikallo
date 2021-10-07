@@ -32,6 +32,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&logo=Lua)&nbsp;
 ![Replit](https://img.shields.io/badge/-Replit-05122A?style=for-the-badge&logo=Replit)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=for-the-badge&logo=Jupyter)&nbsp;
 
 ### My Github statistics!
 
