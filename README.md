@@ -38,7 +38,7 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Frikallo&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frikallo&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frikallo&hide=javascript,css&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frikallo&hide=javascript,css,python&theme=radical">
   </div>
 </details>
 
