@@ -1,7 +1,7 @@
-# ＼(＾▽＾*) Hello!
+Hello!
 <div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593696934154240/cool_background_thing_lol.gif"></div>
 
-# 👋 I'm Nirlep
+# 👋 I'm Frikallo
 
 ### I'm a Python and Javascript developer! I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
