@@ -46,7 +46,7 @@
 <a href="https://ko-fi.com/frikallo" target="_blank" style="display: inline-block;">
   <img
       src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-      align="center"
+      align="left"
       />
      </a>
 </div>
