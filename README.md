@@ -1,5 +1,5 @@
 # Hello!
-<div align="center"><img src="https://camo.githubusercontent.com/285e041fef0ac18a4ef4b73614a2eb44e4bb36d50859b4623fe2e10a4d53a4cc/68747470733a2f2f646174612e77686963646e2e636f6d2f696d616765732f35343430363238352f6f726967696e616c2e676966" width="1000"></div>
+<div align="center"><img src="" width="1000"></div>
 
 # 👋 I'm Frikallo
 
@@ -43,7 +43,7 @@
   </div>
 </details>
 
-<div align="center"><img src="https://64.media.tumblr.com/811e98150e0e645ef3ed098103cac599/tumblr_inline_p7tnkzHiwx1s16be1_500.gifv" width="1000"></div>
+<div align="center"><img src="https://camo.githubusercontent.com/285e041fef0ac18a4ef4b73614a2eb44e4bb36d50859b4623fe2e10a4d53a4cc/68747470733a2f2f646174612e77686963646e2e636f6d2f696d616765732f35343430363238352f6f726967696e616c2e676966" width="1000"></div>
 
 <div align="center">
 <a href="https://github.com/Frikallo" target="_blank">
