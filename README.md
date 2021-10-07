@@ -1,5 +1,4 @@
-# Hello!
-<div align="center"><img src="https://themakerbean.com/wp-content/uploads/2017/01/hello_world.gif" width="1000"></div>
+
 
 # 👋 I'm Frikallo
 
