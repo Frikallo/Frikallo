@@ -3,7 +3,7 @@
 
 # 👋 I'm Frikallo
 
-### <div align="left">I'm Noah, a High school student who's absolutely gaming at code</div>  
+### <div align="left">a High school student who's absolutely gaming at code</div>  
   
 
 - 🔭 I’m currently working on **#%$*##
