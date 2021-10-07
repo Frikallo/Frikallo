@@ -43,7 +43,7 @@
   </div>
 </details>
 
-<div align="center"><img src="https://64.media.tumblr.com/811e98150e0e645ef3ed098103cac599/tumblr_inline_p7tnkzHiwx1s16be1_500.gifv"></div>
+<div align="center"><img src="https://64.media.tumblr.com/811e98150e0e645ef3ed098103cac599/tumblr_inline_p7tnkzHiwx1s16be1_500.gifv" width="1000"></div>
 
 <div align="center">
 <a href="https://github.com/Frikallo" target="_blank">
