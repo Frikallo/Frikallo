@@ -40,3 +40,15 @@
 <div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593069206229012/my_life.gif"></div>
 
 ### Thank you for viewing my profile!
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Frikallo&&style=flat-square" align="center" />
+<a href="https://ko-fi.com/frikallo" target="_blank" style="display: inline-block;">
+  <img
+      src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+      align="center"
+      />
+     </a>
+</div>
+
+----------------------------------
