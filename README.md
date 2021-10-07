@@ -1,4 +1,4 @@
-##Hello!
+#Hello!
 <div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593696934154240/cool_background_thing_lol.gif"></div>
 
 # 👋 I'm Frikallo
