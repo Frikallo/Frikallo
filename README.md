@@ -1,7 +1,5 @@
 # Hello!
-<div align="center"><img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif"></div>
-
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=600)
+<div align="center"><img src="https://i.pinimg.com/originals/4c/d6/ea/4cd6eaa599851725aa5a195d162fb20d.gif" width="10"></div>
 
 # 👋 I'm Frikallo
 
