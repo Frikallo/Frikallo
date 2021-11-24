@@ -5,11 +5,11 @@
 ### <div align="left">I'm a High Schooler gaming at code</div>  
   
 
-- 🔭 I’m currently working on **#%$*##
-  
+- 🔭 I’m currently working on YOUR MOM
+
+- PROFESIONAL FRICKER
 
 - 🐳 I’m currently learning Docker 
-  
 
 - ❓ Ask me about anything related to neural networks or machine learning related technologies
 
