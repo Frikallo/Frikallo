@@ -1,19 +1,19 @@
 
 
-# 👋 I'm Frikallo
+# Hi 👋, I'm Frikallo
 
-### <div align="left">I'm a High Schooler gaming at code</div>  
+### <div align="left">A shitty developer</div>  
   
 
-- 🔭 I’m currently working on YOUR MOM
-
-- PROFESIONAL FRICKER
+- 🔭 I’m currently working on [BATbot](https://github.com/Frikallo/BATbot)
 
 - 🐳 I’m currently learning Docker 
 
-- ❓ Ask me about anything related to neural networks or machine learning related technologies
+- ❓ Ask me about ML or my bot
 
-### Technologies that I know!
+- 🤝 I’m looking for help with [BATbot](https://github.com/Frikallo/BATbot)
+
+### Languages and Tools:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
@@ -31,7 +31,7 @@
 ![Replit](https://img.shields.io/badge/-Replit-05122A?style=for-the-badge&logo=Replit)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=for-the-badge&logo=Jupyter)&nbsp;
 
-### My Github statistics!
+### Github Stats:
 
 <details>
   <summary>Click to reveal</summary>
