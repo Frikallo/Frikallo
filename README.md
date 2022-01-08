@@ -62,7 +62,7 @@
   ### Thank you for viewing my profile!
 
 <div align="center">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motzumoto" alt="motzumoto" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Frikallo" alt="Frikallo" /></a> </p>
 <img src="https://komarev.com/ghpvc/?username=Frikallo&&style=flat-square" align="center" />
 <a href="https://ko-fi.com/frikallo" target="_blank" style="display: inline-block;">
   <img
