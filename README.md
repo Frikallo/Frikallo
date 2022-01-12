@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [BATbot](https://github.com/Frikallo/BATbot)
 
-- 🐳 I’m currently learning Docker 
+- 🌶 I’m currently learning Flask & Web Development
 
 - ❓ Ask me about ML or my bot
 
