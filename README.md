@@ -34,18 +34,4 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frikallo&theme=radical">
   </div>
 </details>
-
-  ### This is the end, Now you can go away!
-
-<div align="center">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Frikallo" alt="Frikallo" /></a> </p>
-<img src="https://komarev.com/ghpvc/?username=Frikallo&&style=flat-square" align="center" />
-<a href="https://ko-fi.com/frikallo" target="_blank" style="display: inline-block;">
-  <img
-      src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-      align="center"
-      />
-     </a>
-</div>
-
 ----------------------------------
