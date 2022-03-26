@@ -35,8 +35,6 @@
   </div>
 </details>
 
-<div align="center"><img src="https://camo.githubusercontent.com/285e041fef0ac18a4ef4b73614a2eb44e4bb36d50859b4623fe2e10a4d53a4cc/68747470733a2f2f646174612e77686963646e2e636f6d2f696d616765732f35343430363238352f6f726967696e616c2e676966" width="1000"></div>
-
 <div align="center">
 <a href="https://github.com/Frikallo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
