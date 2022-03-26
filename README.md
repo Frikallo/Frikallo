@@ -5,13 +5,13 @@
 ### <div align="left">A shitty developer</div>  
   
 
-- 🔭 I’m currently working on [BATbot](https://github.com/Frikallo/BATbot)
+- 🔭 I’m currently working on [YAKbot](https://github.com/Frikallo/YAKbot)
 
 - 🌶 I’m currently learning Flask & Web Development
 
 - ❓ Ask me about ML or my bot
 
-- 🤝 I’m looking for help with [BATbot](https://github.com/Frikallo/BATbot)
+- 🤝 I’m looking for help with [YAKbot](https://github.com/Frikallo/YAKbot)
 
 ### Languages and Tools:
 
