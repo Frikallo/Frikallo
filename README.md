@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Frikallo
 
-### <div align="left">A shitty developer who steals everything from [EleutherAI](https://www.eleuther.ai/). Thanks for the inspiration, and the code!</div>  
+### <div align="left">A shitty developer who steals everything from [EleutherAI](https://www.github.com/eleutherai). Thanks for the inspiration, and the code!</div>  
   
 
 - 🔭 I’m currently working on [YAKbot](https://github.com/Frikallo/YAKbot)
