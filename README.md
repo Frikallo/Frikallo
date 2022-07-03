@@ -13,17 +13,12 @@
 
 - 🤝 I’m looking for help with [YAKbot](https://github.com/Frikallo/YAKbot)
 
-### Languages and Tools:
+### Current and Past TechStack:
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
-![Fortran](https://img.shields.io/badge/-Fortran-05122A?style=for-the-badge&logo=fortran)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker)&nbsp;
-![Lua](https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&logo=Lua)&nbsp;
-![Replit](https://img.shields.io/badge/-Replit-05122A?style=for-the-badge&logo=Replit)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=for-the-badge&logo=Jupyter)&nbsp;
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 ### Github Stats:
 
