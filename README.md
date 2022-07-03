@@ -5,13 +5,13 @@
 ### <div align="left">A shitty developer who steals everything from [EleutherAI](https://www.github.com/eleutherai). Thanks for the inspiration, and the code!</div>  
   
 
-- 🔭 I’m currently working on [YAKbot](https://github.com/Frikallo/YAKbot)
+- 🔭 I’m currently working on [LBOZO](https://github.com/Frikallo/LBOZO)
 
 - 🌶 I’m currently learning Flask & Web Development
 
-- ❓ Ask me about ML or my bot
+- ❓ Ask me about ML or Cryptography related subjects
 
-- 🤝 I’m looking for help with [YAKbot](https://github.com/Frikallo/YAKbot)
+- 🤝 I’m looking for help with [A windows based Ransomware(POC)](https://github.com/Frikallo/LBOZO)
 
 ### Current and Past TechStack:
 
@@ -27,6 +27,8 @@
 | Java   | 2022        |
 | C&C++   | 2022        |
 | GCC   | 2022        |
+
+**Primarily a Python programmer**
 
 ### Github Stats:
 
