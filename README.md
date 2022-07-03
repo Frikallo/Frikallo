@@ -15,7 +15,7 @@
 
 ### Current and Past TechStack:
 
-| Syntax      | Description |
+| Language/Software | Year introduced to my Stack |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
