@@ -17,8 +17,16 @@
 
 | Language/Software | Year introduced to my Stack |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Luau      | 2020       |
+| Lua   | 2020        |
+| Roblox Studio   | 2020        |
+| Git   | 2020        |
+| Python   | 2021        |
+| Replit   | 2021        |
+| Visual Studio Code   | 2021        |
+| Java   | 2022        |
+| C&C++   | 2022        |
+| GCC   | 2022        |
 
 ### Github Stats:
 
