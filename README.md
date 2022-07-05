@@ -11,7 +11,7 @@
 
 - ❓ Ask me about ML or Cryptography related subjects
 
-- 🤝 I’m looking for help with [A windows based Ransomware(POC)](https://github.com/Frikallo/LBOZO)
+- 🤝 I’m looking for help with [A windows based Ransomware(POC Concept)](https://github.com/Frikallo/LBOZO)
 
 ### Current and Past TechStack:
 
