@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [LBOZO](https://github.com/Frikallo/LBOZO)
 
-- 🌶 I’m currently learning Flask & Web Development
+- 💾 I’m currently learning Rust, C & Lower level development
 
 - ❓ Ask me about ML or Cryptography related subjects
 
