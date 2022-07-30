@@ -29,6 +29,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Vancouver
+          plugin_lines: yes
+          plugin_traffic: yes
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
