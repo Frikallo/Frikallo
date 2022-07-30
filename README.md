@@ -18,11 +18,9 @@
 ### Github Stats:
 
 <details>
-  <summary>Click to reveal</summary>
-  <div>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Frikallo&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frikallo&theme=radical">
-  </div>
+
+![GitHub stats](https://github.com/Frikallo/Frikallo/blob/main/github-metrics.svg)
+
 </details>
+
 ---------------------------------- 
