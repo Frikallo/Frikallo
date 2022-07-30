@@ -25,4 +25,4 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Frikallo&theme=radical">
   </div>
 </details>
-----------------------------------
+---------------------------------- 
